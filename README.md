@@ -13,3 +13,9 @@ A lot of Lectures are already submitted
 
 Sample website with plenty of files for demos
 This is a great Lecture
+
+## Git Comparisons
+Adding GIT Comparisons Lecture
+
+##GITHub Content
+Comparison with Repo
