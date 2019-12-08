@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name>Stéphane SOREL <twitter>
 
 # THANKS
 
