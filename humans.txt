@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name>Stéphane SOREL
+     Stéphane SOREL
      stephane.sorel@orange.com
      Architect
     <twitter>
