@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name>Stéphane SOREL
+     Stéphane SOREL
      stephane.sorel@orange.com
      Architect
     <twitter>
@@ -16,3 +16,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java Programming
