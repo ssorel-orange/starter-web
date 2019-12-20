@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Hi, I am modifying a file before rebase 
 # TEAM
 
      Stéphane SOREL
