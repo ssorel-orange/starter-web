@@ -14,7 +14,7 @@ A lot of Lectures are already submitted
 Sample website with plenty of files for demos
 This is a great Lecture
 
-Adding Git Rebase Lectures -- Great
+Adding Git Rebase Lectures -- Great Git Advanced - Lot of work
 
 ## Contribution
 Fork the Repo and reqise pull request from ninja
