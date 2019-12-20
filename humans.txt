@@ -6,7 +6,8 @@ Hi, I am modifying a file before rebase
 
      Stéphane SOREL
      stephane.sorel@orange.com
-     Architect
+     Architect Level III
+     IT Organization
     <twitter>
 
 # THANKS
