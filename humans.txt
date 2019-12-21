@@ -4,6 +4,7 @@
 Hi, I am modifying a file before rebase 
 
 Doing some changes on local
+Adding important Notes on GIT Stash
 
 # TEAM
 
