@@ -22,6 +22,6 @@ Fork the Repo and reqise pull request from ninja
 
 ## Git Comparisons
 Adding GIT Comparisons Lecture
-
+Adding new Lectures of Stash
 ##GITHub Content
 Comparison with Repo
